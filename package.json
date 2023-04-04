@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "scrollmagic": "^2.0.8",
+    "swiper": "^9.2.0"
+  }
+}
